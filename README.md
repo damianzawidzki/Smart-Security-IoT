@@ -52,6 +52,10 @@ The system can:
 - Communication signals sent to ESP8266
 - Movement interval command received from ESP8266
 
+  <img width="367" height="793" alt="image" src="https://github.com/user-attachments/assets/e1ff8c19-dae2-41da-9181-824f7ca44f30" />
+<img width="373" height="807" alt="image" src="https://github.com/user-attachments/assets/4f152b53-b859-41d1-8764-64e9eca7f765" />
+Arduino UNO alarm subsystem with LCD, keypad, HC-SR04 sensor, servo motor, LEDs and buzzer. And an ESP8266 IoT module with an OLED display and a DHT sensor.
+
 ### ESP8266 Web Dashboard
 
 - Web dashboard hosted by ESP8266
@@ -111,11 +115,7 @@ Wokwi simulation 3 showing the complete integrated system.
 - I2C communication
 - Digital input and output
 - Sensor integration
-<img width="367" height="793" alt="image" src="https://github.com/user-attachments/assets/e1ff8c19-dae2-41da-9181-824f7ca44f30" />
-<img width="373" height="807" alt="image" src="https://github.com/user-attachments/assets/4f152b53-b859-41d1-8764-64e9eca7f765" />
 
-Arduino UNO alarm subsystem with LCD, keypad, HC-SR04 sensor, servo motor, LEDs and buzzer. And an ESP8266 IoT module with an OLED display and a DHT sensor.
----
 
 ## Project Structure
 
