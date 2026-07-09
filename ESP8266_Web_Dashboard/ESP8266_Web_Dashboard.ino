@@ -5,8 +5,8 @@
 #include <DHT.h>
 #include <time.h>
 
-const char* ssid = "Damian";
-const char* password = "pepikos13";
+const char* ssid = "xxxxx";
+const char* password = "xxxxxx";
 
 #define DHTPIN D5
 #define DHTTYPE DHT11
